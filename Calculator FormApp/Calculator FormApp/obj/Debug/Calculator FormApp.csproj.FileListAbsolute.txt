@@ -1,0 +1,10 @@
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\bin\Debug\Calculator FormApp.exe.config
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\bin\Debug\Calculator FormApp.exe
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\bin\Debug\Calculator FormApp.pdb
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\obj\Debug\Calculator FormApp.csproj.AssemblyReference.cache
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\obj\Debug\Calculator_FormApp.Form1.resources
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\obj\Debug\Calculator_FormApp.Properties.Resources.resources
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\obj\Debug\Calculator FormApp.csproj.GenerateResource.cache
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\obj\Debug\Calculator FormApp.csproj.CoreCompileInputs.cache
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\obj\Debug\Calculator FormApp.exe
+C:\Users\konta\Documents\GitHub\csharp\Calculator FormApp\Calculator FormApp\obj\Debug\Calculator FormApp.pdb
